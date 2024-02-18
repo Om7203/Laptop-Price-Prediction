@@ -1,0 +1,14 @@
+Link to the Dataset from kaggle
+https://www.kaggle.com/code/themeeemul/laptop-price-prediction/input?select=laptops.csv
+
+Description of Dataset:
+
+Columns in the Dataset:-
+indx,Company,TypeName,Inches,touchscreen,ipspanel,retinadisplay,resolution_width,resolution_height,cpu_brand,cpu_name,cpu_speed,Ram,Memory,hdd,ssd,flashstorage,hybrid,gpu_brand,gpu_name,OpSys,Weight_kg,Price
+
+columns ignored:-
+TypeName,cpu_brand,cpu_name,Memory,flashstorage,gpu_name
+
+
+
+

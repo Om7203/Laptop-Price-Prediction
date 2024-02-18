@@ -1,4 +1,4 @@
-Vaghasiya, Om, 22205283
+Vaghasiya, Om
 
 **Title - Laptop Price Prediction**
 
